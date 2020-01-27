@@ -1,4 +1,4 @@
-![Imgur](https://imgur.com/7n7O70w)
+![Imgur](https://i.imgur.com/0F7bNNa.png)
 # ARK Desktop Wallet Plugin Template Project
 
 ## Installation
