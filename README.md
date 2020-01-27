@@ -1,11 +1,11 @@
-(**THIS IS A TEMPLATE**)
+![Imgur](https://imgur.com/7n7O70w)
 
-# Plugin name - ARK Desktop Wallet plugin
-Description of your plugin
+# ARK Desktop Wallet Plugin Template Project
 
 ## Installation
 
- 1. Clone this repository or [download it](https://github.com/ark-ecosystem-desktop-plugins/template/archive/master.zip) and unzip it into `~/.ark-desktop/plugins/`.
+ 1. Create a new repository based on this template
+ 2. Place the new repository into `~/.ark-desktop/plugins/`
  2. Start the desktop wallet.
  3. Enable the plugin on the plugin section.
 
