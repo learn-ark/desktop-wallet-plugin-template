@@ -8,6 +8,13 @@
   "license": "MIT",
   "desktop-wallet": {
     "title": "TITLE",
+    "images": [
+      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/template/master/preview-1.png",
+      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/template/master/preview-2.png",
+      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/template/master/preview-3.png",
+      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/template/master/preview-4.png",
+      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/template/master/preview-5.png"
+    ],
     "categories": [],
     "permissions": [
       "THEMES"
